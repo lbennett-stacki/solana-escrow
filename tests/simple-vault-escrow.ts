@@ -2,7 +2,7 @@ import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
 import { Escrow } from "../target/types/escrow";
 
-describe("escrow", () => {
+describe("simple-vault-escrow", () => {
   // Configure the client to use the local cluster.
   anchor.setProvider(anchor.AnchorProvider.env());
 

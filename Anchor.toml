@@ -5,7 +5,9 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-escrow = "9XV6a4n8aavchcKE8NrFKJBNDHatTFizFF3bppAvn6sL"
+simple-vault-escrow = "7yAEaNyagncPhvNxJRmsURQ7AfihZPEFMTq4E3TnSLTq"
+token-factory = "5Y3YzEgRAifqRWTEN5UqqP3r22oGKWKkecum454AoYwg"
+intoken-factory = "GmJJb5LWkeRJyc3wb3yaPxX4spFxZ14z3cZh1kGD8MBK"
 
 [registry]
 url = "https://api.apr.dev"
